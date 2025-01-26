@@ -49,7 +49,7 @@ You also need an API key for `DeepSeek`, which should be stored in an `.env` fil
 Run the script to analyze the webpage and save the results to `output.txt`:
 
 ```bash
-python main.py
+python ai_seo_crawler.py
 ```
 
 The script performs the following tasks:
@@ -61,7 +61,7 @@ The script performs the following tasks:
 
 ## Code Overview
 
-### main.py
+### ai_seo_crawler.py
 
 ```python
 import asyncio
