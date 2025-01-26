@@ -4,6 +4,7 @@ This project demonstrates how to use an AI-powered browser-use agent to analyze 
 
 ## Features
 
+- **browser-use**: Open-source AI operator, using Chromium.
 - **Semantic Analysis**: Automatically analyzes a webpage's content for semantic placements.
 - **Content Extraction**: Extracts current semantic content placements.
 - **Suggestions**: Provides recommendations for missing long-tail queries.
@@ -19,7 +20,7 @@ Ensure you have the following installed and configured:
 - `dotenv` library
 - `pydantic` library
 
-You also need an API key for `DeepSeek`, which should be stored in an `.env` file.
+You also need an API key for `DeepSeek`, which should be stored in an `.env` file. Check browser-use documentation here: https://github.com/browser-use/browser-use
 
 ## Installation
 
