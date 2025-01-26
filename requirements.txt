@@ -1,0 +1,4 @@
+asyncio
+python-dotenv
+langchain-openai
+pydantic
