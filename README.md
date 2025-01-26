@@ -125,6 +125,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Author
 
-[Metehan Yesilyurt](https://github.com/metehan777)
+[Metehan Yesilyurt](https://metehan.ai)
 
 ---
