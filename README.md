@@ -20,7 +20,8 @@ Ensure you have the following installed and configured:
 - `dotenv` library
 - `pydantic` library
 
-You also need an API key for `DeepSeek`, which should be stored in an `.env` file. Check browser-use documentation here: https://github.com/browser-use/browser-use
+You also need an API key for `DeepSeek`, which should be stored in an `.env` file. 
+Check browser-use documentation here: https://github.com/browser-use/browser-use
 
 ## Installation
 
