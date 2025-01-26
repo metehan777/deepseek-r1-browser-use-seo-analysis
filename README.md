@@ -102,7 +102,7 @@ if __name__ == '__main__':
     asyncio.run(run_search())
 ```
 
-### browser_use.py
+### browser_use
 
 This file contains the `Agent` class, which performs tasks such as browsing, analyzing, and suggesting improvements for a webpage. Ensure this module is implemented correctly to support the main script.
 
