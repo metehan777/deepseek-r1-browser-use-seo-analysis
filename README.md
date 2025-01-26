@@ -1,4 +1,4 @@
-# Semantic Content Analyzer/AI SEO Crawler with browser-use and DeepSeek R1
+# Automated AI Agenct SEO Crawler with browser-use and DeepSeek R1
 
 This project demonstrates how to use an AI-powered browser-use agent to analyze and suggest semantic improvements for a webpage. The script uses the `langchain_openai` library with the `ChatOpenAI` model and is designed to interact with and extract insights from web pages for semantic content optimization.
 
